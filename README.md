@@ -47,7 +47,7 @@ Follow the on-screen instructions in each tab to interact with the network.
 - Claude (Anthropic) - Contributed to advanced implementations and documentation
 
 ## License
-[Specify your chosen license here]
+MIT
 
 ## Disclaimer
 This project is experimental and intended for educational and research purposes. The generated responses and learned patterns should not be considered as factual or reliable information.
