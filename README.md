@@ -1,5 +1,9 @@
 # FractalAI V2
 
+Checkit out at huggingface spaces: 
+
+[FractalAIv2 - Hugginface Spaces](https://huggingface.co/spaces/Aluode/FractalAIV2)
+
 ## Description
 The FractalAI V2 is an innovative AI project that implements a unique neural network structure inspired by fractal geometry. This project combines concepts from fractal mathematics, neural networks, and natural language processing to create a dynamic, self-organizing AI system.
 
