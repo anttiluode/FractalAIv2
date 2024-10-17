@@ -1,7 +1,7 @@
-# Fractal Neural Network Explorer
+# FractalAI V2
 
 ## Description
-The Fractal Neural Network Explorer is an innovative AI project that implements a unique neural network structure inspired by fractal geometry. This project combines concepts from fractal mathematics, neural networks, and natural language processing to create a dynamic, self-organizing AI system.
+The FractalAI V2 is an innovative AI project that implements a unique neural network structure inspired by fractal geometry. This project combines concepts from fractal mathematics, neural networks, and natural language processing to create a dynamic, self-organizing AI system.
 
 ## Key Features
 - Dynamic fractal-based neural network structure
